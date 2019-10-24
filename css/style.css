@@ -1,5 +1,9 @@
+h1{
+  text-align: center;
+}
 table{
   border-width: thick solid #000000;
+  text-align: center;
 }
 
 .playball{
