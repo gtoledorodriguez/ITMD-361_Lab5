@@ -1,6 +1,28 @@
 table{
   border-width: thick solid #000000;
 }
+
 .playball{
   font-family: 'Playball', cursive;
+}
+
+.planet-pics{
+  background-color: #000000;
+}
+
+body{
+  background-image: url("images/galaxy");
+}
+
+.mercury{
+  color: #8c8c8c;
+}
+.jupiter{
+  color: #A17C76;
+}
+.saturn{
+  color: #FBBE54;
+}
+.neptune{
+  color: #4775FC;
 }
