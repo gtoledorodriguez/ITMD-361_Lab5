@@ -1,13 +1,15 @@
+.playball{
+  font-family: 'Playball', cursive;
+  font-size: 30px;
+}
+
 h1{
   text-align: center;
+  font-size: 70px;
 }
 table, th, td{
   border: thick solid #000000;
   text-align: center;
-}
-
-.playball{
-  font-family: 'Playball', cursive;
 }
 
 .planet-pics{
