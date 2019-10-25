@@ -27,7 +27,7 @@ h1.playball{
 }
 
 body{
-  background-image: image("images/galaxy.jpg");
+  background-image: url("/images/galaxy.jpg");
 }
 
 .mercury{
