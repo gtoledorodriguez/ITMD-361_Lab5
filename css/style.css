@@ -4,6 +4,11 @@ h1{
 table, th, td{
   border: 1px solid #000000;
   text-align: center;
+  margin: auto;
+}
+
+th, td {
+  padding: ;
 }
 
 .playball{
@@ -20,7 +25,7 @@ h1.playball{
 }
 
 body{
-  background-image: url("images/galaxy");
+  background-image: url("images/galaxy.jpg");
 }
 
 .mercury{
