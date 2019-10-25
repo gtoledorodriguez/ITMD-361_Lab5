@@ -10,12 +10,17 @@ table, th, td{
   margin: auto;
 }
 
-th, td {
+th{
+  color: white;
+  background-color: #660066;
+}
+
+td {
   padding: 20px;
-  background-color: #e2b6fb;
+  background-color: #ffccff;
 }
 td:nth-child(odd){
-  background-color: #9ccffc;
+  background-color: #ccffff;
 }
 
 .playball{
@@ -27,7 +32,7 @@ h1.playball{
   font-size: 70px;
 }
 
-.planet-pics{
+td.planet-pics{
   background-color: #000000;
 }
 
