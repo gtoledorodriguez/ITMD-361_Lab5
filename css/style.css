@@ -28,6 +28,7 @@ h1.playball{
 
 body{
   background-image: url("../images/galaxy.jpg");
+  background-size: auto;
 }
 
 .mercury{
