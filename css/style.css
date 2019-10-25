@@ -1,6 +1,7 @@
 h1{
   text-align: center;
   margin: auto;
+  color: #7c45fc;
 }
 table, th, td{
   border: 1px solid #000000;
@@ -10,7 +11,11 @@ table, th, td{
 }
 
 th, td {
-  padding: 15px;
+  padding: 20px;
+  background-color: #e2b6fb;
+}
+td:nth-child(odd){
+  background-color: #9ccffc;
 }
 
 .playball{
