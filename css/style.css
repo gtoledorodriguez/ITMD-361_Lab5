@@ -10,7 +10,7 @@ table, th, td{
 }
 
 th, td {
-  padding: ;
+  padding: 10px;
 }
 
 .playball{
@@ -27,7 +27,7 @@ h1.playball{
 }
 
 body{
-  background-color: red;
+  background-image: image(images/galaxy.jpg);
 }
 
 .mercury{
